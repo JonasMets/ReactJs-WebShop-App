@@ -1,0 +1,9 @@
+.ordercardstatus{
+  display: flex;
+  justify-items: center;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.ordercardchange{
+  align-items: center;
+}
